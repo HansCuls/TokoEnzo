@@ -9,7 +9,7 @@ const products = [
     { id: 8, name: "Panel 8 GB", price: 8000, image: "https://h.top4top.io/p_3359z8r830.png" },
     { id: 9, name: "Panel 9 GB", price: 9000, image: "https://h.top4top.io/p_3359z8r830.png" },
     { id: 10, name: "Panel 10 GB", price: 10000, image: "https://h.top4top.io/p_3359z8r830.png" },
-    { id: 11, name: "Panel unli GB", price: 15000, image: "https://h.top4top.io/p_3359z8r830.png" }
+    { id: 11, name: "Panel unli GB", price: 12000, image: "https://h.top4top.io/p_3359z8r830.png" }
 ];
 
 const productList = document.getElementById("product-list");
